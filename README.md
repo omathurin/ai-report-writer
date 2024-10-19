@@ -1,4 +1,4 @@
-# AI Content Generator
+# AI Report Writer
 
 This project is an AI-powered content generator that creates structured articles based on user-provided topics. It uses Google Custom Search for web scraping and Google's Gemini AI for content generation.
 
@@ -20,7 +20,7 @@ This project is an AI-powered content generator that creates structured articles
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/ai-content-generator.git
+   git clone https://github.com/omathurin/ai-report-writer.git
    cd ai-content-generator
    ```
 
