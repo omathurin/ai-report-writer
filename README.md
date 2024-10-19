@@ -21,7 +21,7 @@ This project is an AI-powered content generator that creates structured articles
 1. Clone this repository:
    ```
    git clone https://github.com/omathurin/ai-report-writer.git
-   cd ai-content-generator
+   cd ai-report-writer
    ```
 
 2. Create a virtual environment (optional but recommended):
@@ -51,7 +51,7 @@ This project is an AI-powered content generator that creates structured articles
 Run the script:
 
 ```
-python ai_content_generator.py
+python ai-report-writer.py
 ```
 
 
@@ -59,14 +59,14 @@ When prompted, enter the topic for your article. The script will then generate t
 
 ## Project Structure
 
-- `ai_content_generator.py`: Main script for content generation
+- `ai-report-writer.py`: Main script for content generation
 - `requirements.txt`: List of Python dependencies
 - `.env`: Configuration file for API keys (not tracked by Git)
 - `generated_article.html`: Output file (generated when the script is run)
 
 ## Customization
 
-You can modify the `ai_content_generator.py` script to adjust:
+You can modify the `ai-report-writer.py` script to adjust:
 - The number of search results used
 - The prompt templates for AI content generation
 - The HTML structure of the output file
